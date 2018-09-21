@@ -1,0 +1,38 @@
+body {
+  background-color: #ffca62;
+}
+
+ul {
+  list-style: none;
+  width: 80%;
+
+}
+
+li {
+  width: 100%;
+  background-color: #fdb413;
+  padding: 20pt;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 10pt 0 10pt 0;
+  font-size: 18pt;
+}
+
+.input {
+  border-radius: 8pt;
+  border: none;
+  outline: none;
+  padding: 10pt;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.checkbox {
+  width: 15pt;
+  height: 15pt;
+}
+
+.hideBtn {
+  visibility: hidden;
+}
